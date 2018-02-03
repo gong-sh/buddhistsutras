@@ -44,7 +44,7 @@ Please note that "口弥" (mī) found in some sutras (namely 六字真言 and �
 > 唵 嘛 呢 叭 口弥 吽。(Chinese character line)
 
 ##  Recitation Introduction
-This app contains a collection of Buddhist Sutras and Mantras chanted by **Guan Yin Citta Dharma Door (观世音菩萨心灵法门 - Guan Shi Yin Pu Sa Xin Ling Fa Men)** followers. Guan Yin Citta Dharma Door belongs to the Mahayana Buddhist Tradition.
+This repository contains a collection of Buddhist Sutras and Mantras chanted by **Guan Yin Citta Dharma Door (观世音菩萨心灵法门 - Guan Shi Yin Pu Sa Xin Ling Fa Men)** followers. Guan Yin Citta Dharma Door belongs to the Mahayana Buddhist Tradition.
 
 It encourages people to *recite Buddhist scriptures, practise life liberation and make great vows to help more people*.
 
