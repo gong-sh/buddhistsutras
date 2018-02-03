@@ -1,5 +1,5 @@
 # Mahayana Buddhist Sutras (佛教念诵合集)
-This repository contains 17 Mahayana Buddhist Sutras with Pinyin in Plain Text Format:
+This repository contains 17 Mahayana Buddhist Sutras with Pinyin in Plain Text Format (available in Simplified Chinese and Traditional Chinese):
 
 * 净口业真言 (Jing Kou Ye Zhen Yan)
 * 大悲咒 (Da Bei Zhou)
@@ -23,3 +23,29 @@ This repository contains 17 Mahayana Buddhist Sutras with Pinyin in Plain Text F
 
 Thanks with metta
 🙏🙏🙏
+
+<hr>
+
+##  Text File Format Description
+Each text file contains multiple lines (Pinyin line and Chinese character line). First two lines in the text file are the buddhist sutra title. Pinyin for each Chinese character are separated from each other with a whitespace.
+
+Symbols in the Chinese character line also appears in the Pinyin line.
+
+##  Special Care
+Please note that "口弥" (mī) found in some sutras (namely 六字真言 and 观音灵感真言), is considered 1 Chinese character. Under this condition, the Chinese characters are separated with whitespace so you can parse them accordingly.
+
+> lìu zì zhēn yán (Pinyin line)
+>
+> 六 字 真 言 (Chinese character line)
+>
+> 
+> ōng mā ní bā mī hòng。(Pinyin line)
+>
+> 唵 嘛 呢 叭 口弥 吽。(Chinese character line)
+
+##  Recitation Introduction
+This app contains a collection of Buddhist Sutras and Mantras chanted by **Guan Yin Citta Dharma Door (观世音菩萨心灵法门 - Guan Shi Yin Pu Sa Xin Ling Fa Men)** followers. Guan Yin Citta Dharma Door belongs to the Mahayana Buddhist Tradition.
+
+It encourages people to *recite Buddhist scriptures, practise life liberation and make great vows to help more people*.
+
+For more information, please visit <a href="http://www.guanyincitta.info">www.guanyincitta.info</a>.
