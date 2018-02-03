@@ -19,7 +19,7 @@ This repository contains 17 Mahayana Buddhist Sutras with Pinyin in Plain Text F
 * 观音灵感真言 (Kuan Yin Ling Kan Chen Yan)
 * 药师灌顶真言 (Yao Shi Guan Ding Zhen Yan)
 
-*Practise Chanting Audios are also available for selected sutras*
+*Chanting Practice Audios are also available for selected sutras*
 
 Thanks with metta
 🙏🙏🙏
