@@ -1,4 +1,4 @@
-#Mahayana Buddhist Sutras (佛教念诵合集)
+# Mahayana Buddhist Sutras (佛教念诵合集)
 This repository contains 17 Mahayana Buddhist Sutras with Pinyin in Plain Text Format:
 
 * 净口业真言 (Jing Kou Ye Zhen Yan)
