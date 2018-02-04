@@ -49,3 +49,5 @@ This repository contains a collection of Buddhist Sutras and Mantras chanted by 
 It encourages people to *recite Buddhist scriptures, practise life liberation and make great vows to help more people*.
 
 For more information, please visit <a href="http://www.guanyincitta.info">www.guanyincitta.info</a>.
+
+Last Updated on 04/02/2018
