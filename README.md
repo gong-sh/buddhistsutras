@@ -32,7 +32,7 @@ Each text file contains multiple lines (Pinyin line and Chinese character line).
 Symbols in the Chinese character line also appears in the Pinyin line.
 
 ##  Special Care
-Please note that "口弥" (mī) found in some sutras (namely 六字真言 and 观音灵感真言), is considered 1 Chinese character. Under this condition, the Chinese characters are separated with whitespace so you can parse them accordingly.
+Please note that "口弥" (mī) found in some sutras (namely 六字真言 and 观音灵感真言), is considered 1 Chinese character. Under this condition, the Chinese characters are separated with whitespace so you can parse them properly. Same for the character "口栗" (lì) found in 千手千眼无碍大悲心陀罗尼 sutra (Simplified Chinese Version).
 
 > lìu zì zhēn yán (Pinyin line)
 >
