@@ -50,4 +50,6 @@ It encourages people to *recite Buddhist scriptures, practise life liberation an
 
 For more information, please visit <a href="http://www.guanyincitta.info">www.guanyincitta.info</a>.
 
+<hr>
+
 Last Updated on 04/02/2018
