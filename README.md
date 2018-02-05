@@ -72,7 +72,7 @@ p {
 
 | ![Screenshot showing Heart Sutra HTML output example](example_html_version_heart_sutra.png) | 
 |:--:| 
-| *Screenshot showing Heart Sutra HTML output example* |
+| *Screenshot showing Heart Sutra HTML output example - Paragraph scales to the browser full-width* |
 
 ##  Text File Format Description
 Each text file contains multiple lines (Pinyin line and Chinese character line). First two lines in the text file are the buddhist sutra title. Pinyin for each Chinese character are separated from each other with a whitespace.
