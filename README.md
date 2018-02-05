@@ -26,23 +26,6 @@ Thanks with metta
 
 <hr>
 
-##  Text File Format Description
-Each text file contains multiple lines (Pinyin line and Chinese character line). First two lines in the text file are the buddhist sutra title. Pinyin for each Chinese character are separated from each other with a whitespace.
-
-Symbols in the Chinese character line also appears in the Pinyin line.
-
-##  Special Care
-Please note that "口弥" (mī) found in some sutras (namely 六字真言 and 观音灵感真言), is considered 1 Chinese character. Under this condition, the Chinese characters are separated with whitespace so you can parse them properly. Same for the character "口栗" (lì) found in 千手千眼无碍大悲心陀罗尼 sutra (Simplified Chinese Version).
-
-> lìu zì zhēn yán (Pinyin line)
->
-> 六 字 真 言 (Chinese character line)
->
-> 
-> ōng mā ní bā mī hòng。(Pinyin line)
->
-> 唵 嘛 呢 叭 口弥 吽。(Chinese character line)
-
 ## HTML Version and Formatting
 The HTML versions will include the Pinyin and Chinese Characters properly formatted in blocks. This makes reading easier. The following HTML and CSS codes are required:
 
@@ -87,8 +70,26 @@ p {
 </html>
 ```
 
-![Screenshot showing Heart Sutra HTML output example](example_html_version_heart_sutra.png)
+| ![Screenshot showing Heart Sutra HTML output example](example_html_version_heart_sutra.png) | 
+|:--:| 
+| *Screenshot showing Heart Sutra HTML output example* |
 
+##  Text File Format Description
+Each text file contains multiple lines (Pinyin line and Chinese character line). First two lines in the text file are the buddhist sutra title. Pinyin for each Chinese character are separated from each other with a whitespace.
+
+Symbols in the Chinese character line also appears in the Pinyin line.
+
+##  Special Care
+Please note that "口弥" (mī) found in some sutras (namely 六字真言 and 观音灵感真言), is considered 1 Chinese character. Under this condition, the Chinese characters are separated with whitespace so you can parse them properly. Same for the character "口栗" (lì) found in 千手千眼无碍大悲心陀罗尼 sutra (Simplified Chinese Version).
+
+> lìu zì zhēn yán (Pinyin line)
+>
+> 六 字 真 言 (Chinese character line)
+>
+> 
+> ōng mā ní bā mī hòng。(Pinyin line)
+>
+> 唵 嘛 呢 叭 口弥 吽。(Chinese character line)
 
 ##  Recitation Introduction
 This repository contains a collection of Buddhist Sutras and Mantras chanted by **Guan Yin Citta Dharma Door (观世音菩萨心灵法门 - Guan Shi Yin Pu Sa Xin Ling Fa Men)** followers. Guan Yin Citta Dharma Door belongs to the Mahayana Buddhist Tradition.
