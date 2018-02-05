@@ -43,13 +43,56 @@ Please note that "口弥" (mī) found in some sutras (namely 六字真言 and �
 >
 > 唵 嘛 呢 叭 口弥 吽。(Chinese character line)
 
+## HTML Version and Formatting
+The HTML versions will include the Pinyin and Chinese Characters properly formatted in blocks. This makes reading easier. The following HTML and CSS codes are required:
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+p .srow { display: block; }
+p .sblock { float: left; margin: 0 3px; display: block; }
+p .pinyin { font-family: Arial; text-align: center; display: block; }
+p .char { font-family: Arial; text-align: center; display: block; }
+
+p .padd { font-family: Arial; text-align: center; display: block; }
+.title span { font-weight: bold; }
+
+body {
+	padding: 0 20px;
+	font-family: "Arial";
+}
+
+p {
+	font-size: 20px;
+	text-align: center;
+	margin: 0 0 0 0;
+	padding: 0;
+}
+
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; visibility: hidden; }
+.clearfix { zoom: 1; }
+.clearfix:after { clear: both; }
+* html .clearfix { zoom: 1; }
+
+</style>
+</head>
+<body>
+
+...
+
+</body>
+</html>
+```
+
+![Screenshot showing Heart Sutra HTML output example](example_html_version_heart_sutra.png)
+
+
 ##  Recitation Introduction
 This repository contains a collection of Buddhist Sutras and Mantras chanted by **Guan Yin Citta Dharma Door (观世音菩萨心灵法门 - Guan Shi Yin Pu Sa Xin Ling Fa Men)** followers. Guan Yin Citta Dharma Door belongs to the Mahayana Buddhist Tradition.
 
 It encourages people to *recite Buddhist scriptures, practise life liberation and make great vows to help more people*.
 
 For more information, please visit <a href="http://www.guanyincitta.info">www.guanyincitta.info</a>.
-
-<hr>
-
-Last Updated on 04/02/2018
