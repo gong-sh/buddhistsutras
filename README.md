@@ -26,7 +26,7 @@ Thanks with metta
 
 <hr>
 
-## HTML Version and Formatting
+## HTML Version CSS Formatting
 The HTML versions will include the Pinyin and Chinese Characters properly formatted in blocks. This makes reading easier. The following HTML and CSS codes are required:
 
 ```
