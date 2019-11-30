@@ -98,4 +98,4 @@ It encourages people to *recite Buddhist scriptures, practise life liberation an
 
 For more information, please visit <a href="http://www.guanyincitta.info">www.guanyincitta.info</a>.
 
-If any discrepancies are found, please follow the latest version available at <a href="http://lujunhong2or.com">http://lujunhong2or.com</a>.
+If there any discrepancies, please refer to the latest version available at <a href="http://lujunhong2or.com">http://lujunhong2or.com</a>.
